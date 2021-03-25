@@ -1,3 +1,5 @@
+# Scrum Guide History
+
 This repo is a collection of all historic revisions of the official Scrum Guide by Ken Schwaber and Jeff Sutherland.
 
 The Scrum Guide is the official definition of what Scrum is and is not, according to Scrum's founders. It was originally written in 2010, but Schwaber and Sutherland have released six revised versions since then, with the latest release in 2020. Over the years, the definition of Scrum has shifted as the authors gradually refined and clarified its meaning. These changes are often subtle, and easily missed, but provide insight into how Scrum has succeeded or failed in its applications, and how this experience has been fed back into the definition of Scrum itself.
