@@ -4,9 +4,9 @@ This guide explains how to use Scrum to build products. In doing so, it will des
 
 Scrum is a framework for developing complex products and systems. It is grounded in empirical process control theory. Scrum employs an iterative, incremental approach to optimize predictability and control risk. Within each iteration, Scrum employs self-organizing, cross-functional Teams to optimize flexibility and productivity.
 
-The heart of Scrum is a **Sprint**. A Sprint is one iteration of a month or less that is of consistent length throughout a development effort. All Sprints use the same Scrum framework, and all Sprints end with an increment of the end product that is potentially releasable. The increment is a complete slice, or piece, of the finished product or system that is developed by the end of an iteration, or Sprint. One Sprint starts immediately after the prior Sprint ends. Scrum employs time-boxes to create regularity. The time-boxes within Scrum are : **the Sprint Planning Meeting, the Sprint, the Daily Scrum, the Sprint Review, and the Sprint Retrospective.
+The heart of Scrum is a **Sprint**. A Sprint is one iteration of a month or less that is of consistent length throughout a development effort. All Sprints use the same Scrum framework, and all Sprints end with an increment of the end product that is potentially releasable. The increment is a complete slice, or piece, of the finished product or system that is developed by the end of an iteration, or Sprint. One Sprint starts immediately after the prior Sprint ends.
 
-**
+Scrum employs time-boxes to create regularity. The time-boxes within Scrum are : **the Sprint Planning Meeting, the Sprint, the Daily Scrum, the Sprint Review, and the Sprint Retrospective.**
 
 Scrum employs self-organizing, cross-functional Scrum Teams to do the work. Each Scrum Team has three roles where accountability and responsibility lie. The ScrumMaster is responsible for ensuring the process is understood and followed. The Product Owner is responsible for maximizing the value of the work done. The Team does the work. The Team consists of developers with all the skills to turn the Product Owner’s requests into the potentially shippable increment each Sprint. The Team is usually seven plus or minus two members.
 
