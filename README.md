@@ -36,11 +36,13 @@ This is a bit more open than simply a list of requirements. Note that the follow
 
 "Fixes" don't sound like requirements in the traditional sense, so this change makes the guide more consistent.
 
+The Spring Backlog changed more significantly. In the original guide, it is specifically a list of tasks that "can be done in less than one day". In the revision, the word "task" does not occur, and the Sprint Backlog is described vaguely as an "implementation plan". It is still said that Product Backlog items must be decomposed into "units of one day or less".
+
 A rather bad addition was made to Sprint Planning.
 
  > By the end of the Sprint Planning meeting, the Development Team should be able to explain to the Product Owner and Scrum Master how it intends to work as a self-organizing team to accomplish the Sprint Goal and create the anticipated Increment.
 
-It's not clear why the team should be required to explain this in Sprint Plannin. Firstly, this contradicts the principle that the implementation plan arises *during* the Sprint, with only the early tasks needing to be planned out during Sprint Planning. Secondly, why should a self-managing team have to explain its implementation plan to the Product Owner? The implementation plan exists purely for the benefit of the developers.
+It's not clear why the team should be required to explain this in Sprint Planning. Firstly, this contradicts the principle that the implementation plan arises *during* the Sprint, with only the early tasks needing to be planned out during Sprint Planning. Secondly, why should a self-managing team have to explain its implementation plan to the Product Owner? The implementation plan exists purely for the benefit of the developers.
 
 Finally, some minor changes:
 
