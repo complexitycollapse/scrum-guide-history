@@ -58,6 +58,38 @@ Only minor changes in this revision (which comes only a few months after the las
 - In the section on the Sprint, "quality goals remain constant" has been changed to "quality goals do not decrease."
 - New service for the Scrum Master: "Teaching the Development/Scrum Team to create clear and concise Product Backlog items."
 
+## July 2013 Revision
+
+The big change in this revision is the increased prominence of the Sprint Goal. Firstly, the definition of the Sprint Goal has expanded considerably:
+
+> The Sprint Goal is an objective set for the Sprint that can be met through the implementation of Product Backlog. It provides guidance to the Development Team on why it is building the Increment. It is created during the Sprint Planning meeting. The Sprint Goal gives the Development Team some flexibility regarding the functionality implemented within the Sprint. The selected Product Backlog items deliver one coherent function, which can be the Sprint Goal. The Sprint Goal can be any other coherence that causes the Development Team to work together rather than on separate initiatives.
+
+Previously we just had the point about "flexibility" (or "wiggle-room" in the first version) which was extremely vague. The Sprint Goal has now also been elevated to a central place in the Daily Scrum, as reflected in the new "three questions".
+
+- What did I do yesterday that helped the Development Team meet the Sprint Goal?
+- What will I do today to help the Development Team meet the Sprint Goal?
+- Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
+
+The next most important change is to Sprint Planning, which is no longer required to be two time-boxed meetings. Now there are simply two topics to discuss, and how that is managed is left entirely to the discretion of the Scrum Team. The importance of the Sprint Goal has been raised here too. Rather than being decided after the Product Backlog items have been chosen, it is now (implicitly) decided first:
+
+> The Product Owner discusses the objective that the Sprint should achieve and the Product Backlog items that, if completed in the Sprint, would achieve the Sprint Goal.
+
+The Sprint Review has also changed somewhat. Rather strangely, the claim that the Daily Scrum is not a status meeting has been removed, and added to the Sprint Review instead. Yes, it's worth adding that to the Sprint Review, but are we to assume that the Daily Scrum **is** a status meeting now?
+
+There is also some additional clarification on who attends the Sprint Review, namely "the Scrum Team and key stakeholders invited by the Product Owner", and two new bullet points have been added to the Sprint Review's activities:
+
+- Review of how the marketplace or potential use of the product might have changed what is the most valuable thing to do next; and,
+- Review of the timeline, budget, potential capabilities, and marketplace for the next anticipated release of the product.
+
+Some smaller changes:
+
+- There is a new "Artifact Transparency" section, which just reiterates that all the artifacts should be fully transparent.
+- There is a new section in the Definition of "Done" saying that what counts as "Done" must be compatible with the organisation's standards.
+- Also, the Definition of "Done" should be shared by all people working on the product.
+- There is less prescriptivism over the lengths of meetings.
+- The offending text about the Development Team having to explain its implementation plan to the Product Owner and Scrum Master has been changed to remove this requirement.
+- A few other pieces of unnecessary prescriptivism have been removed.
+
 ## Legal Stuff
 
 This git repo is a derivative work of the Scrum Guide by Ken Schwaber and Jeff Sutherland. It is released under the Attribution Share-Alike license of Creative Commons. The original copyright notice is as follows:
