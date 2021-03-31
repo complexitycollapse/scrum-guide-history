@@ -50,6 +50,14 @@ Finally, some minor changes:
 - 'Release Goal' is now 'Product Goal'
 - The wording "improvements may be implemented at any time" has been added to the Sprint Retrospective section, highlighting that you don't have to wait for the retrospective to make improvements.
 
+### October 2011 Revision
+
+Only minor changes in this revision (which comes only a few months after the last one). Other than minor typo fixes, the changes are:
+
+- Removal of "Scrum does not consider the time spent working on Product Backlog Items. The work remaining and date are the only variables of interest."
+- In the section on the Sprint, "quality goals remain constant" has been changed to "quality goals do not decrease."
+- New service for the Scrum Master: "Teaching the Development/Scrum Team to create clear and concise Product Backlog items."
+
 ## Legal Stuff
 
 This git repo is a derivative work of the Scrum Guide by Ken Schwaber and Jeff Sutherland. It is released under the Attribution Share-Alike license of Creative Commons. The original copyright notice is as follows:
